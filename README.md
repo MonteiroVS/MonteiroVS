@@ -7,6 +7,7 @@
 ## *"Não construo apenas soluções. Construo valor, propósito e impacto."*
 
 <br> 
+
 Sou um estudante de tecnologia com forte background em atendimento e suporte, trazendo para o desenvolvimento de sistemas a disciplina de excelência no relacionamento com clientes e a mentalidade de entrega eficiente. Tenho habilidades práticas em Banco de Dados (MySQL), redes, suporte técnico e comunicação visual (Photoshop/Illustrator).
 Apaixonado por inovação e movido a resultados, estou em constante evolução, com certificações em redes, bancos de dados e criação gráfica, e busco aplicar pensamento crítico, criatividade e execução estratégica para transformar desafios tecnológicos em oportunidades reais de crescimento. 
 
