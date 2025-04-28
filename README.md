@@ -4,6 +4,15 @@
  - 🎯 Futuro Dev focado em resultados
  - 📚 Aprendendo e Aperfeiçoando-se em C.
 
+      <a href = "mailto: viniciusmonteiroform@gmail.com">
+       <img align="center" alt="gmail-icon" height="10" width="10" src="https://img.icons8.com/fluent/512/gmail-new.png">
+     </a>
+     <a href = "https://www.linkedin.com/in/viniciusmonteiro3301/">
+       <img align="center" alt="linkedin-icon" height="10" width="10" src="https://cdn-icons-png.flaticon.com/512/145/145807.png">
+     </a>
+     <a href = "https://www.instagram.com/vnsmtr/">
+       <img align="center" alt="instagram-icon" height="10" width="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png">
+
 ## *"Não construo apenas soluções. Construo valor, propósito e impacto."*
 
 <br> 
