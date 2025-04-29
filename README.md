@@ -2,7 +2,7 @@
  
  - 🚀 Em formação de Análise e Desenvolvimento de Sistemas
  - 🎯 Futuro Dev focado em resultados
- - 📚 Aprendendo e Aperfeiçoando-se em C.
+ - 📚 Aprendendo e Aperfeiçoando-se em C e C#
 
 
 ## *"Não construo apenas soluções. Construo valor, propósito e impacto."*
