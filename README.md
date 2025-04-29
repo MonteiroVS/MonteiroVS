@@ -16,6 +16,7 @@ Apaixonado por inovação e movido a resultados, estou em constante evolução, 
  
 
 <img height="230em" src="https://github-readme-stats.vercel.app/api?username=MonteiroVS&show_icons=true&theme=dracula"/>
+<img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonteiroVS&layout=compact&langs_count=16&theme=dracula"/>
 
 <h1 align="center"><em>Aplicações</em>👨🏽‍💻</h1>
 <div align="center"> 
