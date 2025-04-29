@@ -23,8 +23,9 @@ Apaixonado por inovação e movido a resultados, estou em constante evolução, 
 <div style="display: inline_block"><br>
 <img align="left" height="250" alt="coding-time" src="code.gif">
      <img align="center" height="250" alt="coding-time" src="code.gif">
-     <img align="center" alt="visual-icon" height="40" width="40" src="https://img.icons8.com/color/512/c-programming.png">
+     <img align="center" alt="C-icon" height="45" width="45" src="https://img.icons8.com/color/512/c-programming.png">
      <img align="center" alt="mysql-icon"  height="40" width="40" src="https://images.ctfassets.net/o7xu9whrs0u9/3wmYS3g0nAFXJggA2aQskT/879edc25907953b6d1f30deb7e7f58f7/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
+     <img align="center" alt="C#-icon"  height="40" width="37" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png">
     </div>
       
    <h1 align="center"><em>Redes Sociais</em>📱</h1>
