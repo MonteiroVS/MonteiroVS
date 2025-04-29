@@ -1,22 +1,21 @@
-## 👨‍💻 Vinicius Monteiro</em>
+# 👨‍💻 Vinicius Monteiro</em>
  
  - 🚀 Em formação de Análise e Desenvolvimento de Sistemas
  - 🎯 Futuro Dev focado em resultados
  - 📚 Aprendendo e Aperfeiçoando-se em C e C#
 
 
-## *"Não construo apenas soluções. Construo valor, propósito e impacto."*
+# *"Não construo apenas soluções. Construo valor, propósito e impacto."*
 
-<br> 
 
 Sou um estudante de tecnologia com forte background em atendimento e suporte, trazendo para o desenvolvimento de sistemas a disciplina de excelência no relacionamento com clientes e a mentalidade de entrega eficiente. Tenho habilidades práticas em Banco de Dados (MySQL), redes, suporte técnico e comunicação visual (Photoshop/Illustrator).
 Apaixonado por inovação e movido a resultados, estou em constante evolução, com certificações em redes, bancos de dados e criação gráfica, e busco aplicar pensamento crítico, criatividade e execução estratégica para transformar desafios tecnológicos em oportunidades reais de crescimento. 
 
-<br>
- 
 
+ 
+#
 <img height="230em" src="https://github-readme-stats.vercel.app/api?username=MonteiroVS&show_icons=true&theme=dracula"/>
-<img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonteiroVS&layout=compact&langs_count=16&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonteiroVS&layout=compact&langs_count=16&theme=dracula"/>
 
 <h1 align="center"><em>Aplicações</em>👨🏽‍💻</h1>
 <div align="center"> 
@@ -30,13 +29,13 @@ Apaixonado por inovação e movido a resultados, estou em constante evolução, 
       
    <h1 align="center"><em>Redes Sociais</em>📱</h1>
      <a href = "mailto: viniciusmonteiroform@gmail.com">
-       <img align="center" alt="gmail-icon" height="40" width="40" src="https://img.icons8.com/fluent/512/gmail-new.png">
+       <img align="center"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
      </a>
      <a href = "https://www.linkedin.com/in/viniciusmonteiro3301/">
-       <img align="center" alt="linkedin-icon" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/145/145807.png">
+       <img align="center"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
      </a>
      <a href = "https://www.instagram.com/vnsmtr/">
-       <img align="center" alt="instagram-icon" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png">
+       <img align="center"src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
      </a>
  </div>
  
